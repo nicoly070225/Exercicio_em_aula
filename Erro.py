@@ -1,1 +1,1 @@
-print ("2+2")
+print ("quero minha casa")
